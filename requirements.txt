@@ -6,5 +6,6 @@ scikit-learn
 catboost
 xgboost
 Flask
+gunicorn>=20.0.4
 
 -e .
